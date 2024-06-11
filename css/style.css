@@ -7,7 +7,7 @@
 	src: url('/assets/fonts/raleway.ttf');
 }
 html {
-  background:url(../images/bg.png) repeat top left;
+  background:url(../images/bg2.png) repeat top left;
   padding:0;
   margin:0;
 }
@@ -17,7 +17,7 @@ body {
   padding:0;
   width:auto;
   height:auto;
-  background:url(../images/bg.png) no-repeat center top fixed;
+  background:url(../images/bg2.png) no-repeat center top fixed;
   -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
